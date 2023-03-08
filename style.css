@@ -1,4 +1,5 @@
 body {
+    background-color: #78e7d3;
     color: black;
     margin: 0%;
     text-align: center; 
@@ -60,6 +61,7 @@ a:hover {
 
 
 .middle-container {
+    background-color: #78e7d3;
     margin: 100px 0;
 }
 
@@ -76,6 +78,7 @@ a:hover {
 }
 
 .bottom-container {
+    background-color: #78e7d3;
     background-color: #66bfbf;
     padding: 50px 0 10px;
  }
